@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="For-GH/github-snake.svg" />
-</picture>
+<p align="center">
+ <img width="600" src="For_GH/github-snake.svg" alt="snake"/>
+</p>
