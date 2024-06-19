@@ -1,6 +1,6 @@
 # Hi there 👋
 <div>
-  <img src="https://github.com/JoshBelle/JoshBelle/blob/main/Desktop%20-%201.jpg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/JoshBelle/JoshBelle/blob/main/Desktop%20-%201.jpg" title="git" alt="git" width="100%" height="100%"/>&nbsp
 </div>
 
 <p align="center">
