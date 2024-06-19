@@ -6,6 +6,9 @@
 <p align="center">
  <img width="" src="assets.svg" alt="snake"/>
 </p>
+
+### 👋 Hello! 
+Software engineer with 3+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
  
 ### Technologies:
 
@@ -30,5 +33,3 @@
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 
-### 👋 Hello! 
-Software engineer with 3+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
