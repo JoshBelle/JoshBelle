@@ -10,7 +10,7 @@
 ### 👋 Hello! 
 Software engineer with 3+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
  
-### Technologies:
+### 🛠️ Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -32,4 +32,7 @@ Software engineer with 3+ years of experience.  Worked for innovative startups, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
+
+### 📊 Statistics
+[![Roman's github stats](https://github-readme-stats.vercel.app/api?username=JoshBelle&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
